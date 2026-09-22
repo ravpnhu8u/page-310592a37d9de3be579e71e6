@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "e5652e454358a4160c0dfa1a",
+  "owner": "ravpnhu8u",
+  "repo": "page-310592a37d9de3be579e71e6",
+  "title": "老A家",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "310592a37d9de3be579e71e6",
+      "a": "老A家",
+      "b": "2027官方最新地址导航",
+      "entity": "老A家",
+      "brand": "老A家",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "fd4e26d8735ffe3facda6a642ec226448c7017ba107c346fdc40b9b23ed7eb40",
+      "content": {
+        "primary_entity": "老A家",
+        "keyword1": "老A家",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择客户端，先确认系统版本再导入订阅。",
+          "AI_CLIENTS_TITLE": "按设备选客户端",
+          "AI_CLOSING_TEXT": "选定套餐后完成订阅配置，即可在对应设备上使用。",
+          "AI_CLOSING_TITLE": "从套餐到连接",
+          "AI_DESCRIPTION": "，老A家提供基础版、旗舰版与团队版三档套餐，月付从 ¥15 起，年付方案可节省两个月费用。基础版适合轻度浏览与基础流媒体，旗舰版增加 IPLC 专线与全节点流媒体解锁，团队版面向多设备与高流量需求。每档套餐对应不同的在线设备数与月流量，按设备数量和用途选择即可。",
+          "AI_FEATURES_INTRO": "从套餐档位、设备数量与订阅周期三个角度快速判断。",
+          "AI_FEATURES_TITLE": "套餐与设备匹配",
+          "AI_FEATURE_TEXT_1": "基础版月付 ¥15、年付 ¥150，提供 100GB 流量与 3 台设备，适合日常浏览。",
+          "AI_FEATURE_TEXT_2": "旗舰版月付 ¥35、年付 ¥350，300GB 流量、5 台设备，含 IPLC 专线与流媒体解锁。",
+          "AI_FEATURE_TEXT_3": "团队版月付 ¥85、年付 ¥850，1000GB 流量、20 台设备，支持企业定制路由。",
+          "AI_FEATURE_TITLE_1": "入门档位",
+          "AI_FEATURE_TITLE_2": "进阶选择",
+          "AI_FEATURE_TITLE_3": "多人协作",
+          "AI_GUIDE_INTRO": "按选择服务、核对适配要求、依客户端文档配置订阅三步完成。",
+          "AI_GUIDE_TITLE": "订阅配置步骤",
+          "AI_HERO_INTRO": "老A家提供多档海外加速套餐，按流量、设备数量与线路类型区分。基础版适合日常浏览，旗舰版侧重流媒体与游戏加速，团队版面向多设备高流量场景。选择对应套餐后，参考客户端文档完成订阅导入即可使用。",
+          "AI_HERO_SUBTITLE": "老A家多档套餐按需选择",
+          "AI_HIGHLIGHT_1": "月付 ¥15 起的入门方案",
+          "AI_HIGHLIGHT_2": "旗舰版含 IPLC 专线",
+          "AI_HIGHLIGHT_3": "团队版支持 20 台设备",
+          "AI_PLANS_INTRO": "基础版 ¥15/月、旗舰版 ¥35/月、团队版 ¥85/月，年付分别约合 ¥150、¥350、¥850。流量、设备数与线路能力逐档提升，按实际用量选择即可。",
+          "AI_PLANS_TITLE": "三档套餐对比",
+          "AI_STEP_TEXT_1": "浏览基础版、旗舰版与团队版的流量、设备数和线路差异，确定适合自己的一档。",
+          "AI_STEP_TEXT_2": "查看所选套餐的设备数量限制与系统适配说明，确认常用设备可以覆盖。",
+          "AI_STEP_TEXT_3": "参考对应客户端文档，在软件内导入订阅信息并完成连接配置。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "老A家套餐概览",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB、支持 3 台设备；旗舰版每月 300GB、支持 5 台设备；团队版每月 1000GB、支持 20 台设备。按设备数量与月流量估算即可。",
+          "AI_FAQ_ANSWER_2": "有效期内未耗尽流量，更换设备不影响套餐，只需在新设备上重新导入订阅，同时在线数量仍受所选套餐限制。",
+          "AI_FAQ_ANSWER_3": "年付可降低月均成本，基础版年付 ¥150、旗舰版年付 ¥350、团队版年付 ¥850。若长期使用，年付更划算。",
+          "AI_FAQ_ANSWER_4": "在客户端中导入订阅链接后更新节点列表，再选择延迟较低的节点连接。不同客户端操作略有差异，请参考其文档。",
+          "AI_FAQ_ANSWER_5": "旗舰版含 IPLC 专线游戏加速优化，适合对延迟敏感的场景；团队版提供 VIP 专属高带宽节点，适合多人或多任务并发。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "基础版、旗舰版、团队版分别适合什么情况？",
+          "AI_FAQ_QUESTION_2": "更换设备后套餐还能继续用吗？",
+          "AI_FAQ_QUESTION_3": "按月付和按年付有什么区别？",
+          "AI_FAQ_QUESTION_4": "订阅导入客户端后如何选择节点？",
+          "AI_FAQ_QUESTION_5": "哪个套餐适合游戏或多设备并发使用？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "pamilya.cn",
+    "host": "pamilya.cn"
+  },
+  "file_hashes": {
+    "index.html": "a10a430adc397ee248570433f347d7ac39f5641b7a2bc8425af53673bb917127",
+    "sitemap.xml": "84ccbb3abbfc4d4696a0f03e5d9016553902e5c8a29f595a4828f424c9ffaf43",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "745aab1edbab227ced4e925cf73ae9aafda8d75f2d22e67d6f8d00c0c8d5eff4",
+    "robots.txt": "f9a0c422fe86eff45c15fa50e534d1ed0892b3f77dc4c2931837c01eabe43f50",
+    "3b97b24a8306665a866fe0e835579db3.txt": "9fb563020a1f2317bd15d931770493fa3991c9d30565d213f1dbf8756cc22cda"
+  },
+  "revision": "1055b5d6effbcbd53b243490dbb05b74a5590d29cdb313146057bdeac9e3b851"
+}
